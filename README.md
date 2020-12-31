@@ -1,37 +1,11 @@
-## Carlos Fernando Buen Abad Najar
+I am a 6th year PhD candidate in the Center for Computational Biology at the University of California, Berkeley. I am advised by [Dr Liana Lareau](https://lareaulab.org/) and [Dr Nir Yosef](https://yoseflab.github.io). My research focuses in analysing alternative splicing in single cell RNA-sequencing (scRNA-seq) data, and in the regulation of splicing of ultraconserved poison exons.
 
-You can use the [editor on GitHub](https://github.com/cfbuenabadn/cfbuenabadn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I recieved my BSc in Biology from Universidad Nacional Autonoma de Mexico in 2015.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Alternative splicing in single cells
 
-### Markdown
+Observations of alternative splicing with scRNA-seq led to an unexpected observation: in a homogeneous population of single cells, most cells consistently show either one isoform or another of the same gene, but they rarely produce both. In other words, the apparent distribution of the Percent Spliced-In (&Psi) of isoforms is bimodal and mostly binary. In [recent work](https://elifesciences.org/articles/54603), I showed that the distortion of the observed $Psi by low capture efficiency and amplification biases are the main source of this apparent bimodality in full-transcript scRNA-seq data. The challenge for Computational Biologists ahead is to account for these biases in the analysis of informative alternative splicing at the single cell level.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Regulation of poison exon splicing
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cfbuenabadn/cfbuenabadn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Ultraconserved poison exons](https://www.nature.com/articles/nature05676) are a fascinating yet largely unknown mechanism of post-transcriptional regulation in the Serine/Argenine-Rich (SR) family of splicing factors. I am currently working on analysing the binding patterns of RNA Binding Proteins (RBPs) in these exons in order to reveal potential regulatory mechanisms.
