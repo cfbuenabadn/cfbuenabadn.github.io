@@ -1,4 +1,4 @@
-I am a 6th year PhD candidate in the Center for Computational Biology at the University of California, Berkeley. I am advised by [Dr Liana Lareau](https://lareaulab.org/) and [Dr Nir Yosef](https://yoseflab.github.io). My research focuses in analysing alternative splicing in single cell RNA-sequencing (scRNA-seq) data, and in the regulation of splicing of ultraconserved poison exons.
+I am a 6th year PhD candidate in the [Center for Computational Biology](https://ccb.berkeley.edu/) at the University of California, Berkeley. I am advised by [Dr Liana Lareau](https://lareaulab.org/) and [Dr Nir Yosef](https://yoseflab.github.io). My research focuses in analysing alternative splicing in single cell RNA-sequencing (scRNA-seq) data, and in the regulation of splicing of ultraconserved poison exons.
 
 I recieved my BSc in Biology from Universidad Nacional Autonoma de Mexico in 2015.
 
