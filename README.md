@@ -4,7 +4,7 @@ I recieved my BSc in Biology from Universidad Nacional Autonoma de Mexico in 201
 
 ### Alternative splicing in single cells
 
-Observations of alternative splicing with scRNA-seq led to an unexpected observation: in a homogeneous population of single cells, most cells consistently show either one isoform or another of the same gene, but they rarely produce both. In other words, the apparent distribution of the Percent Spliced-In (&Psi) of isoforms is bimodal and mostly binary. In [recent work](https://elifesciences.org/articles/54603), I showed that the distortion of the observed $Psi by low capture efficiency and amplification biases are the main source of this apparent bimodality in full-transcript scRNA-seq data. The challenge for Computational Biologists ahead is to account for these biases in the analysis of informative alternative splicing at the single cell level.
+Observations of alternative splicing with scRNA-seq led to an unexpected observation: in a homogeneous population of single cells, most cells consistently show either one isoform or another of the same gene, but they rarely produce both. In other words, the apparent distribution of the Percent Spliced-In (Ψ) of isoforms is bimodal and mostly binary. In [recent work](https://elifesciences.org/articles/54603), I showed that the distortion of the observed Ψ by low capture efficiency and amplification biases are the main source of this apparent bimodality in full-transcript scRNA-seq data. The challenge for Computational Biologists ahead is to account for these biases in the analysis of informative alternative splicing at the single cell level.
 
 ### Regulation of poison exon splicing
 
