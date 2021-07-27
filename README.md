@@ -11,7 +11,3 @@ In light of these observations, we developed [Psix](https://github.com/lareaulab
 ### Regulation of poison exon splicing
 
 [Ultraconserved poison exons](https://www.nature.com/articles/nature05676) are a fascinating yet largely unknown mechanism of post-transcriptional regulation in the Serine/Argenine-Rich (SR) family of splicing factors. I am currently working on analysing the binding patterns of RNA Binding Proteins (RBPs) in these exons in order to reveal potential regulatory mechanisms.
-
-### About my lastname: Buen Abad Najar
-
-My complete lastname is **Buen Abad Najar**; three words and no hyphens. A common mistake is to assume that Najar alone is my lastname, and that I have three middle names. For other than academic citations, just call me Carlos (although some friends refer to me as Buen Abad).
