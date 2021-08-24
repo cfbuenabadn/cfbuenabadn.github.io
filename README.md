@@ -1,6 +1,6 @@
-I am a postdoctoral fellow at the [Innovative Genomics Institute](https://innovativegenomics.org/) in Berkeley. I work with with [Dr Liana Lareau](https://lareaulab.org/) and [Dr Nir Yosef](https://yoseflab.github.io). My research focuses in analysing alternative splicing in single cell RNA-sequencing (scRNA-seq) data, and in the regulation of splicing of ultraconserved poison exons. I graduated from my PhD in Computational Biology at UC Berkeley in 2021.
+I am a postdoctoral scholar at the [University of Chicago Department of Medicine](https://medicine.uchicago.edu/) since August 2021. I work with with [Dr Yang I. Li](https://thelilab.com/) and [Dr Matthew Stephens](https://stephenslab.uchicago.edu/).
 
-I recieved my BSc in Biology from Universidad Nacional Autonoma de Mexico in 2015.
+I recieved my BSc in Biology from Universidad Nacional Autonoma de Mexico in 2015. I earned a PhD in Computational Biology at UC Berkeley in 2021, with the advise of [Dr Liana Lareau](https://lareaulab.org/) and [Dr Nir Yosef](https://yoseflab.github.io). My PhD research focused in analysing alternative splicing in single cell RNA-sequencing (scRNA-seq) data, and in the regulation of splicing of ultraconserved poison exons.
 
 ### Alternative splicing in single cells
 
