@@ -7,6 +7,6 @@ categories: highlights
 author: "Carlos F Buen Abad Najar"
 authors: "<b><u>Carlos F Buen Abad Najar</u></b>, Dongyue Xie, Peter Carbonetto, Ru Feng, Gao Wang, Matthew Stephens, Yang I Li"
 venue: "<i>In prep</i>"
-preprint: https://cfbuenabadn.github.io
+preprint: https://cfbuenabadn.github.io/pdfs/torino-preprint.pdf
 ---
 Torino combines an innovative matrix factorization approach with splice junction analysis to uncover the main structures underlying the transcriptome without annotations. Torino finds thousands of new transcript structures relevant in complex diseases, such as cryptic splicing, intron retention and alternative polyadenylation.

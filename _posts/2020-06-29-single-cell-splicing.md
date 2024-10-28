@@ -2,7 +2,7 @@
 layout: post
 title:  "Coverage-dependent bias creates the appearance of binary splicing in single cells."
 date:   2020-06-29 22:21:59 +00:00
-image: images/sc-splicing.png
+image: images/sc-splicing.PNG
 categories: highlights
 author: "Carlos F Buen Abad Najar"
 authors: "<b><u>Carlos F Buen Abad Najar</u></b>, Nir Yosef^, Liana F Lareau^"
