@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<dl class="home-avatar" style="max-width: 300px">
+  <dt>
+    <img class="circle" src="/images/profile2024.png" />
+  </dt>
+</dl>
+
+<div class="home-box">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ site.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+ </div>
+  
+  <table
+    style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tr>
+    <td style="padding:2.5%;width:100%;vertical-align:middle">
+    <h2>Research highlights</h2>
+    </td>
+    </tr>
+    </table>
+    <table
+      style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      {%- for post in site.posts -%}
+      <tr>
+      <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      </td>
+      <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <b>{{post.title}}</b>
+      <br>
+      {{post.authors}}
+      <br>
+      {% if post.notes %}{{post.notes}}<br>{% endif %}
+      <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+      <br>
+      {% capture links %}
+      {% if post.paper %}<a href="{{post.paper}}">paper</a>{% endif %}
+      {% if post.preprint %}<a href="{{post.preprint}}">preprint</a>{% endif %}
+      {% if post.code %}/ <a href="{{post.code}}">code</a>{% endif %}
+      {% if post.slides %}/ <a href="{{post.slides}}">slides</a>{% endif %}
+      {% if post.website %}/ <a href="{{post.website}}">website</a>{% endif %}
+      {% if post.twitter %}/ <a href="{{post.twitter}}">tweetorial</a>{% endif %}
+      {% if post.talk %}/ <a href="{{post.talk}}">talk</a>{% endif %}
+      {% if post.podcast %}/ <a href="{{post.podcast}}">podcast</a>{% endif %}
+      {% if post.blog %}/ <a href="{{post.blog}}">blog</a>{% endif %}
+      {% endcapture %}
+      {{ links}}
+      <p></p>
+      {{ post.excerpt }}
+      </td>
+      {%- endfor -%}
+    </ul>
+
+
+</table>
