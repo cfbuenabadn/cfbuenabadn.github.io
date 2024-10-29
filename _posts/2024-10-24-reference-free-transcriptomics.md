@@ -5,7 +5,8 @@ date:   2024-10-27 22:21:59 +00:00
 image: images/SRSF3.factors_10.png
 categories: highlights
 author: "Carlos F Buen Abad Najar"
-authors: "<b><u>Carlos F Buen Abad Najar</u></b>, Dongyue Xie, Peter Carbonetto, Ru Feng, Gao Wang, Matthew Stephens, Yang I Li"
+authors: "<b><u>Carlos F Buen Abad Najar</u></b>, Dongyue Xie, Peter Carbonetto, Ru Feng, Gao Wang, Matthew Stephens^, Yang I Li^"
+notes: "^ <i>indicates co-corresponding authors.</i>"
 venue: "<i>In prep</i>"
 preprint: https://cfbuenabadn.github.io/pdfs/torino-preprint.pdf
 ---
