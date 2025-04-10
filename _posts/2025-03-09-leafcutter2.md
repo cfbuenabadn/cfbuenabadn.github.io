@@ -7,7 +7,8 @@ categories: highlights
 author: "Carlos F Buen Abad Najar"
 authors: "<b><u>Carlos F Buen Abad Najar*</u></b>, Ru Feng*, Chao Dai*, Benjamin Fair, Quinn Hauck, Jinhui Li, Xuanyao Liu, Gao Wang^, Yang I Li^"
 notes:  "* <i>indicates equal contribution. ^ indicates co-correspinding authors.</i>"
+preprint: https://doi.org/10.1101/2025.04.06.646893
 code: https://github.com/cfbuenabadn/leafcutter2/
-venue: "<i>In prep. ETA: April 2025.</i>"
+venue: "<i>BiorXiv</i>"
 ---
 LeafCutter2 enables identification and quantification of unproductive (NMD-associated) splicing from short-read RNA-seq data. Applying LeafCutter2, we uncovered a broad landscape of unproductive splicing across human tissues and in non-human animals. Analyzing data from the data from the AD Functional Genomics consortium FunGen-xQTL project, we also identify novel associations between unproductive splicing and Alzheimer's disease risk.
